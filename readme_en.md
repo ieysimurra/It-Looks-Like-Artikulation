@@ -62,7 +62,7 @@ Access the online demonstration: [https://editor.p5js.org/ieysimurra/sketches/za
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/interactive-sound-shapes.git
+git clone https://github.com/ieysimurra/It-Looks-Like-Artikulation.git
 cd interactive-sound-shapes
 ```
 
@@ -210,9 +210,9 @@ This project is especially suitable for:
 
 ## 📬 Contact
 
-- **Developer**: [Your Name]
-- **Email**: youremail@example.com
-- **Project**: [https://github.com/your-username/interactive-sound-shapes](https://github.com/your-username/interactive-sound-shapes)
+- **Developer**: [Ivan Eiji Simurra]
+- **Email**: ieysimurra@gmail.com
+- **Project**: [https://github.com/ieysimurra/It-Looks-Like-Artikulation](https://github.com/ieysimurra/It-Looks-Like-Artikulation)
 
 ## 🙏 Acknowledgments
 
